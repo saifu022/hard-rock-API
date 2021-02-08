@@ -1,5 +1,5 @@
 # hard-rock-solution
-live site: 
+live site: https://saifu022.github.io/hard-rock-API/.
 
 ### practicing API calling with async await an other ES6 features
 
